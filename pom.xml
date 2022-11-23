@@ -6,7 +6,7 @@
 
   <groupId>com.naylamc</groupId>
   <artifactId>sonar-helloworld</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
 
   <name>sonar-helloworld</name>
   <url>https://github.com/NaylaMC/sonar-helloworld</url>
